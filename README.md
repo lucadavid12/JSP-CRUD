@@ -10,10 +10,9 @@ This project offers a web interface based on JavaServer Pages (JSP) designed to 
 
 ### Home Page
 ![home](/photos/home.png)
-//(https://github.com/[lucadavid12]/[JSP-CRUD]/blob/[main]//photos/home.png?raw=true)
 
 ### View data from table 
-(/photos/view.png)
+[view](/photos/view.png)
 
 ### Edit data
-(/photos/edit.png)
+[edit](/photos/edit.png)
