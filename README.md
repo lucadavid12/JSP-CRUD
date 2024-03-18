@@ -9,7 +9,8 @@ This project offers a web interface based on JavaServer Pages (JSP) designed to 
 - Nicepage: An app that simplifies the styling process of the web page
 
 ### Home Page
-![home](https://github.com/[lucadavid12]/[JSP-CRUD]/blob/[main]//photos/home.png?raw=true)
+![home](/photos/home.png)
+//(https://github.com/[lucadavid12]/[JSP-CRUD]/blob/[main]//photos/home.png?raw=true)
 
 ### View data from table 
 (/photos/view.png)
