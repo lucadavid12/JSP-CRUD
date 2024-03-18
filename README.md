@@ -12,7 +12,7 @@ This project offers a web interface based on JavaServer Pages (JSP) designed to 
 ![home](photos/home.png)
 
 ### View data from table 
-[view](photos/view.png)
+![view](photos/view.png)
 
 ### Edit data
-[edit](photos/edit.png)
+![edit](photos/edit.png)
