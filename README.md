@@ -6,6 +6,7 @@ This project offers a web interface based on JavaServer Pages (JSP) designed to 
 - JavaServer Pages (JSP): A server-side programming technology that enables the creation of dynamic, platform-independent method for building Web-based applications
 - Apache Tomcat: A web server and servlet container that is used to serve Java-based web applications
 - Azul Zulu: An open source, TCK-tested and certified build of OpenJDK
+- MySQL Connector: Is the official JDBC driver for MySQL
 - Nicepage: An app that simplifies the styling process of the web page
 
 ### Home Page
